@@ -12,6 +12,13 @@
 }
 
 @layer utilities {
+    .section {
+        @apply py-6 lg:py-12;
+    }
+    .wrapper {
+        @apply px-6 sm:px-12 2xl:px-0 mx-auto;
+    }
+
     .nav__item {
         @apply xl:uppercase hover:text-primary-200  text-xl xl:text-sm font-light text-fontLight duration-300 xl:font-semibold tracking-wide xl:tracking-widest relative;
     }
@@ -25,5 +32,9 @@
 
     .nav__item--active {
         @apply text-primary-200;
+    }
+
+    .block__text {
+        @apply leading-relaxed tracking-widest font-light text-[17px];
     }
 }

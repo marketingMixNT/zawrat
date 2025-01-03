@@ -1,7 +1,60 @@
 <x-layouts.app title="title" description="description">
 
-@include('pages.home.partials.hero')
+    @include('pages.home.partials.hero')
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur praesentium officia ipsam voluptatum? Illum blanditiis eum perferendis placeat autem quae rem at error veniam cum tempore libero tempora sapiente, vitae incidunt nobis rerum natus magni dolore cumque doloremque iusto beatae quaerat! Porro totam reiciendis explicabo ut magni quasi dolores voluptatum nostrum provident nihil. Magnam et eligendi rerum facere rem cumque labore ea blanditiis debitis expedita provident, id dolor animi velit quos illum assumenda a commodi quia consequatur tenetur sapiente earum unde? Facilis sed repudiandae labore placeat sint nihil voluptatum facere tempore incidunt, voluptates aliquam voluptatibus aperiam voluptas perspiciatis aliquid harum pariatur consequatur ipsa. Possimus nam delectus eligendi error dolor soluta voluptas, facere molestias! Deserunt fugiat eum quaerat. Reiciendis, officia doloremque. Est eveniet ex ut voluptatum, aliquam amet qui laudantium itaque maiores necessitatibus incidunt expedita adipisci. Explicabo unde accusantium nihil magni deleniti eveniet aut? Laborum, at ipsam unde quidem natus odit harum ratione voluptate vitae quod incidunt aut earum architecto officia sapiente temporibus, quo doloribus expedita error ex, laudantium eum dolorum. Dolorum, blanditiis expedita maxime dolores ipsa ut, eius numquam officia ipsam soluta consectetur quia doloremque consequuntur iure a. Dolorum minus iure unde, pariatur porro vitae ad. Eos reprehenderit sit a quisquam magnam mollitia provident in quos nam modi fugiat minima adipisci velit, culpa ut! Possimus aperiam animi molestias illum eius repellendus, nemo a, facilis maiores provident distinctio alias aut ea eligendi itaque fugit quidem ad assumenda dolore error modi? Fuga, mollitia eius. Quia eum ad soluta expedita sit. Libero, iure corporis ratione alias esse sequi quidem, obcaecati incidunt, laborum illo quis voluptatibus. Accusantium provident numquam dolorem impedit! Doloremque quod exercitationem ut vero vitae voluptate id aspernatur facilis iste ratione deleniti animi reprehenderit, omnis voluptas ipsam iure cum quidem! A ab fuga, unde ipsam cumque quae, odio velit doloremque quisquam, possimus accusantium assumenda. Mollitia in quidem maiores vel quos iure possimus impedit suscipit, libero velit quasi perspiciatis eius harum praesentium eveniet veritatis! Quia quas deleniti voluptas consequatur velit nam. Culpa officia quibusdam vero! Ratione tempore libero veritatis quo corporis harum maiores accusamus cumque dolorem reprehenderit delectus totam necessitatibus qui voluptates quas, perferendis distinctio placeat iste fuga nulla? Voluptate, accusantium, fugit eum perspiciatis animi eaque aperiam doloribus recusandae reiciendis laboriosam praesentium dolorum voluptatem nostrum obcaecati error facilis adipisci a, vero consequuntur et nihil ipsam. Numquam obcaecati ipsum doloremque labore totam possimus esse? Nisi ut id consectetur architecto temporibus fugit explicabo eveniet officiis accusamus et rerum nemo, minus fuga, in consequuntur iusto, sapiente deserunt? Ipsum voluptates beatae iure ducimus, officia aliquid, ut quis vero possimus tenetur unde molestias laudantium voluptatum. Rem nihil hic optio consectetur nulla unde error quam esse expedita assumenda perferendis reiciendis doloremque, voluptas eveniet facilis atque. Quasi commodi explicabo doloremque officia recusandae neque natus cumque! Explicabo cum dignissimos iure voluptates, hic nesciunt dolorum, officiis mollitia blanditiis soluta numquam sit? Sint voluptas, error facere impedit temporibus obcaecati fuga earum dignissimos quisquam, voluptatum mollitia! Dolore deserunt fugit sapiente? Veritatis, error? Quibusdam ratione delectus quia id facilis iure error, enim laboriosam quasi, dolor repudiandae veniam! Quod omnis eligendi ipsam aut iusto excepturi tempore vero, odio eaque officiis, quidem dolor impedit nesciunt ratione cum asperiores aspernatur repudiandae doloremque voluptatibus sed atque nemo? Nobis soluta fuga magni, odit architecto culpa dolor veritatis ipsam repudiandae, repellat voluptatum neque molestias necessitatibus quaerat. Aliquid tenetur sint illum illo repellat voluptatibus dolores ipsa rerum ab cupiditate perspiciatis voluptatum consequuntur, totam repudiandae eaque maiores beatae doloribus laudantium. Odit recusandae cupiditate est sapiente. Ducimus illum quos fugit. Sapiente ad consequuntur numquam rem similique cupiditate possimus doloremque eveniet ab quam et, voluptates pariatur quidem quisquam, laboriosam praesentium voluptatibus nesciunt placeat totam architecto. Explicabo ex aut quia reprehenderit maiores similique aperiam incidunt natus aliquam dolor, blanditiis distinctio accusantium numquam consequuntur praesentium error illo assumenda accusamus architecto! Architecto dicta praesentium ab officia beatae eligendi nobis aperiam eaque! Fugit saepe non ratione recusandae eum, earum illo numquam adipisci dicta, itaque harum. Vel quo facilis suscipit vitae! Suscipit, animi culpa error temporibus in sunt illum numquam atque dolor necessitatibus, rem, eum quae sapiente facere. Illum deleniti iure porro voluptas, distinctio beatae rerum minima eveniet aperiam illo. Vel perspiciatis quis, dolore quidem, deserunt similique eaque modi cum temporibus facere quod, commodi voluptatibus consequuntur maiores? Architecto delectus, itaque magni facilis ut laboriosam in nam? Molestiae vitae esse, voluptatum voluptas assumenda, quo doloribus vero corrupti doloremque voluptatibus possimus optio! At, iste hic pariatur, nam, aliquam accusantium tenetur sunt incidunt error iure quisquam? Sed aperiam dolore fugiat sequi dignissimos numquam reprehenderit id laudantium architecto praesentium explicabo distinctio aspernatur exercitationem, nulla maiores voluptatem minus expedita quia quis, ad aliquam rem deserunt in? Quia cum, sunt sed alias maxime non nihil perferendis tempora, magni sequi repudiandae ratione architecto ducimus soluta nostrum illum neque deserunt dignissimos similique facere dolorem voluptate repellendus commodi iste. Cum, delectus nostrum quae blanditiis, quisquam nemo tempore, hic et minus modi laboriosam eius maxime? Sit, esse vitae! Saepe magnam sint ea aliquam accusantium architecto ducimus vel tempora aliquid, commodi maxime sunt voluptas modi maiores officia eligendi! Aliquam laborum nihil laudantium iure enim voluptatum. Aut, iusto illum iste, eveniet ut facere voluptatibus commodi doloribus possimus dolore natus cupiditate. Beatae, assumenda dignissimos aperiam sit vel vitae iusto, impedit, ipsa ullam id amet? Ipsum illo ratione nobis perferendis quasi sed totam laboriosam minus esse sapiente nesciunt libero voluptatem obcaecati, porro quae maxime eaque similique beatae, id inventore repellendus ea nemo possimus sit. Dicta earum culpa adipisci nemo libero provident dolorem, perferendis, voluptas architecto iure deleniti quibusdam cumque dolores, quae ratione consequatur nulla incidunt harum. Dolorem repellat incidunt sint ut adipisci earum cumque, ullam accusamus labore. Cupiditate minima deserunt dolor inventore, sunt reiciendis pariatur voluptate aliquam laudantium enim, explicabo laborum doloremque a ea debitis eligendi vitae illo? Nam blanditiis tempora quis nisi laborum repellat nihil praesentium? Praesentium placeat dolorem temporibus nihil libero saepe minus itaque qui quod asperiores incidunt dolor ducimus autem repudiandae dignissimos illum iste, repellat deleniti nam. Necessitatibus est, eos quo in quis quia temporibus expedita, numquam fuga natus cum error? Molestias voluptates quo nam rem veritatis, magnam esse? Quibusdam, molestias!</p>
+
+    <section class="section">
+        <div class="wrapper max-w-[1700px] space-y-32 py-16">
+
+
+
+            <x-text-image-block preheading="Zapraszamy" heading="na naszą nową lokalkę"
+                image="{{asset('assets/hero.jpg')}}" alt="hero image">
+
+
+                <p class="block__text">
+                    Polana Sobiczkowa to miejsce, które powstało z pasji do gór oraz gościnności. Chcieliśmy
+                    stworzyć przestrzeń, która łączy w sobie tradycyjny góralski klimat z nowoczesnymi
+                    udogodnieniami. Nasz apartament zapewnia wygodę, przestronność oraz unikalny klimat, który
+                    sprzyja zarówno relaksowi, jak i aktywnemu wypoczynkowi. Każdy detal został zaprojektowany z
+                    myślą o naszych gościach, by poczuli się jak w domu, odpoczywając w otoczeniu pięknej
+                    przyrody.
+                    <br><br>
+                    Nasz apartament to nie tylko komfortowe wnętrze, ale także idealna lokalizacja, zaledwie 3
+                    km od Zakopanego. Jesteśmy doskonałą bazą wypadową do górskich wędrówek, narciarstwa czy
+                    innych atrakcji Podhala. Wierzymy, że w Polana Sobiczkowa każdy znajdzie coś dla siebie,
+                    niezależnie od tego, czy szuka spokoju w otoczeniu natury, czy aktywnego wypoczynku w
+                    górach.
+                </p>
+
+                <x-arrow-link href="#" title="Więcej informacji"  aria="więcej informacji" />
+
+            </x-text-image-block>
+
+            <x-text-image-block preheading="Zapraszamy" heading="na naszą nową lokalkę" reverse
+                image="{{asset('assets/hero.jpg')}}" alt="hero image">
+
+
+                <p class="block__text">
+                    Polana Sobiczkowa to miejsce, które powstało z pasji do gór oraz gościnności. Chcieliśmy
+                    stworzyć przestrzeń, która łączy w sobie tradycyjny góralski klimat z nowoczesnymi
+                    udogodnieniami. Nasz apartament zapewnia wygodę, przestronność oraz unikalny klimat, który
+                    sprzyja zarówno relaksowi, jak i aktywnemu wypoczynkowi. Każdy detal został zaprojektowany z
+                    myślą o naszych gościach, by poczuli się jak w domu, odpoczywając w otoczeniu pięknej
+                    przyrody.
+                    <br><br>
+                    Nasz apartament to nie tylko komfortowe wnętrze, ale także idealna lokalizacja, zaledwie 3
+                    km od Zakopanego. Jesteśmy doskonałą bazą wypadową do górskich wędrówek, narciarstwa czy
+                    innych atrakcji Podhala. Wierzymy, że w Polana Sobiczkowa każdy znajdzie coś dla siebie,
+                    niezależnie od tego, czy szuka spokoju w otoczeniu natury, czy aktywnego wypoczynku w
+                    górach.
+                </p>
+
+            </x-text-image-block>
+
+        </div>
+    </section>
+
+
 
 </x-layouts.app>

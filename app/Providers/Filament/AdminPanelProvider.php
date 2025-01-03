@@ -34,8 +34,8 @@ class AdminPanelProvider extends PanelProvider
             ->sidebarCollapsibleOnDesktop()
 
             ->favicon('/favicon/favicon.ico')
-            ->brandLogo('/assets/logo/')
-            ->darkModeBrandLogo('/assets/logo/')
+            ->brandLogo('/assets/logo/logo--dark.webp')
+            ->darkModeBrandLogo('/assets/logo/logo--light.webp')
             ->brandLogoHeight(fn() => auth()->check() ? '40px' : '100px')
             ->colors([
                 'primary' => Color::hex('#a46421'),

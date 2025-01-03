@@ -13,6 +13,10 @@
 </head>
 
 <body>
+    <x-preloader />
+    <x-header.header />
+    <x-header.header-secondary />
+    <x-header.mobile-menu />
 
     {{ $slot }}
 

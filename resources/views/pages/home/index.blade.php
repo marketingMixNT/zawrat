@@ -27,7 +27,7 @@
                     górach.
                 </p>
 
-                <x-arrow-link href="#" title="Więcej informacji"  aria="więcej informacji" />
+                <x-arrow-link href="#" title="Więcej informacji" aria="więcej informacji" />
 
             </x-text-image-block>
 
@@ -51,6 +51,39 @@
                 </p>
 
             </x-text-image-block>
+
+        </div>
+    </section>
+
+
+    <section class="section bg-bgSecondary border-y border-y-gray-300">
+        <div class="wrapper max-w-[1600px] space-y-16 py-16">
+
+            <x-heading preheading="Zapraszamy" heading="na naszą nową lokalkę" center />
+
+           
+            <div class="flex justify-between items-center gap-3">
+                <button class="offer-prev hidden md:block">
+                    <x-lucide-arrow-left class="size-6 text-secondary-400 hover:text-primary-400 duration-300 hover:-translate-x-1" />
+
+                </button>
+                
+                <div class="swiper special-offers-carousel">
+                    <div class="swiper-wrapper ">
+                        <x-special-offer-card/>
+                        <x-special-offer-card/>
+                        <x-special-offer-card/>
+                        <x-special-offer-card/>
+                        <x-special-offer-card/>
+                    </div>
+                </div>
+
+                <button class="offer-next hidden md:block">
+                    <x-lucide-arrow-right class="size-6 text-secondary-400 hover:text-primary-400 duration-300 hover:translate-x-1" />
+
+                </button>
+                
+            </div>
 
         </div>
     </section>

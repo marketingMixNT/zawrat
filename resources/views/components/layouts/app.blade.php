@@ -20,6 +20,8 @@
 
     {{ $slot }}
 
+    <x-mobile-buttons />
+
 </body>
 
 </html>

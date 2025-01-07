@@ -18,10 +18,12 @@
     <x-header.header-secondary />
     <x-header.mobile-menu />
 
-    {{ $slot }}
+    <main>
+        {{ $slot }}
+    </main>
 
+    <x-footer />
     <x-mobile-buttons />
-
 </body>
 
 </html>

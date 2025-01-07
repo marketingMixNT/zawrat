@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a63e9dc37b42e4ab8108a2ff1b0f0481",
+    "content-hash": "73ce4b9231dde05fc69f4a7734321fcb",
     "packages": [
         {
             "name": "anourvalar/eloquent-serialize",
@@ -423,6 +423,79 @@
             "time": "2024-02-09T16:56:22+00:00"
         },
         {
+            "name": "codeat3/blade-google-material-design-icons",
+            "version": "1.19.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/codeat3/blade-google-material-design-icons.git",
+                "reference": "7a20f3a763edc54dba69725660eff2b2e99f8dad"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/codeat3/blade-google-material-design-icons/zipball/7a20f3a763edc54dba69725660eff2b2e99f8dad",
+                "reference": "7a20f3a763edc54dba69725660eff2b2e99f8dad",
+                "shasum": ""
+            },
+            "require": {
+                "blade-ui-kit/blade-icons": "^1.1",
+                "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
+                "php": "^7.4|^8.0"
+            },
+            "require-dev": {
+                "codeat3/blade-icon-generation-helpers": "^0.8",
+                "codeat3/phpcs-styles": "^1.0",
+                "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0",
+                "phpunit/phpunit": "^9.0|^10.5|^11.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Codeat3\\BladeGoogleMaterialDesignIcons\\BladeGoogleMaterialDesignIconsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Codeat3\\BladeGoogleMaterialDesignIcons\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Swapnil Sarwe",
+                    "homepage": "https://swapnilsarwe.com"
+                },
+                {
+                    "name": "Dries Vints",
+                    "homepage": "https://driesvints.com"
+                }
+            ],
+            "description": "A package to easily make use of \"Google Fonts Material Icons\" in your Laravel Blade views.",
+            "homepage": "https://github.com/codeat3/blade-google-material-design-icons",
+            "keywords": [
+                "blade",
+                "google",
+                "icons",
+                "laravel",
+                "material"
+            ],
+            "support": {
+                "issues": "https://github.com/codeat3/blade-google-material-design-icons/issues",
+                "source": "https://github.com/codeat3/blade-google-material-design-icons/tree/1.19.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/swapnilsarwe",
+                    "type": "github"
+                }
+            ],
+            "time": "2024-02-28T15:02:13+00:00"
+        },
+        {
             "name": "codeat3/blade-iconpark",
             "version": "1.6.0",
             "source": {
@@ -492,6 +565,78 @@
                 }
             ],
             "time": "2024-02-28T15:08:03+00:00"
+        },
+        {
+            "name": "codeat3/blade-line-awesome-icons",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/codeat3/blade-line-awesome-icons.git",
+                "reference": "159ca505d88a0d964d6c136b2dbd0a007387667b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/codeat3/blade-line-awesome-icons/zipball/159ca505d88a0d964d6c136b2dbd0a007387667b",
+                "reference": "159ca505d88a0d964d6c136b2dbd0a007387667b",
+                "shasum": ""
+            },
+            "require": {
+                "blade-ui-kit/blade-icons": "^1.1",
+                "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
+                "php": "^7.4|^8.0"
+            },
+            "require-dev": {
+                "codeat3/blade-icon-generation-helpers": "^0.8",
+                "codeat3/phpcs-styles": "^1.0",
+                "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0",
+                "phpunit/phpunit": "^9.0|^10.5|^11.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Codeat3\\BladeLineAwesomeIcons\\BladeLineAwesomeIconsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Codeat3\\BladeLineAwesomeIcons\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Swapnil Sarwe",
+                    "homepage": "https://swapnilsarwe.com"
+                },
+                {
+                    "name": "Dries Vints",
+                    "homepage": "https://driesvints.com"
+                }
+            ],
+            "description": "A package to easily make use of Line Awesome Icons in your Laravel Blade views.",
+            "homepage": "https://github.com/codeat3/blade-line-awesome-icons",
+            "keywords": [
+                "blade",
+                "icons",
+                "laravel",
+                "line-awesome"
+            ],
+            "support": {
+                "issues": "https://github.com/codeat3/blade-line-awesome-icons/issues",
+                "source": "https://github.com/codeat3/blade-line-awesome-icons/tree/1.4.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/swapnilsarwe",
+                    "type": "github"
+                }
+            ],
+            "time": "2024-02-28T15:15:14+00:00"
         },
         {
             "name": "danharrin/date-format-converter",
@@ -4281,6 +4426,66 @@
                 }
             ],
             "time": "2024-12-17T11:28:11+00:00"
+        },
+        {
+            "name": "owenvoke/blade-entypo",
+            "version": "v2.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/owenvoke/blade-entypo.git",
+                "reference": "b5461e248e7dc31e9529f52f601a4593833bc121"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/owenvoke/blade-entypo/zipball/b5461e248e7dc31e9529f52f601a4593833bc121",
+                "reference": "b5461e248e7dc31e9529f52f601a4593833bc121",
+                "shasum": ""
+            },
+            "require": {
+                "blade-ui-kit/blade-icons": "^1.5",
+                "illuminate/support": "^10.0|^11.0",
+                "php": "^8.1"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.15",
+                "orchestra/testbench": "^8.5|^9.0",
+                "pestphp/pest": "^2.34",
+                "phpstan/phpstan": "^1.10",
+                "symfony/var-dumper": "^6.4|^7.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "OwenVoke\\BladeEntypo\\BladeEntypoServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "OwenVoke\\BladeEntypo\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "A package to easily make use of Entypo in your Laravel Blade views",
+            "support": {
+                "issues": "https://github.com/owenvoke/blade-entypo/issues",
+                "source": "https://github.com/owenvoke/blade-entypo/tree/v2.2.1"
+            },
+            "funding": [
+                {
+                    "url": "https://ecologi.com/owenvoke?gift-trees",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/owenvoke",
+                    "type": "github"
+                }
+            ],
+            "time": "2025-01-06T14:40:33+00:00"
         },
         {
             "name": "phpoption/phpoption",

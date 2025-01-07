@@ -34,7 +34,14 @@
         @apply text-primary-200;
     }
 
-    .block__text {
+    .block__text, .text {
         @apply leading-relaxed tracking-widest font-light text-[17px];
     }
+}
+
+
+
+.swiper-pagination-bullet-active{
+   background-color:#777777 !important;
+   margin: 0 15px !important
 }

@@ -8,8 +8,8 @@
    
 
     <x-mobile-button-item href="">
-        <x-lucide-images class="size-5  text-fontLight" />
-        <span class="text-xs uppercase  text-fontLight">Galeria</span>
+        <x-gmdi-local-offer-o class="size-5  text-fontLight" />
+        <span class="text-xs uppercase  text-fontLight">Oferty</span>
     </x-mobile-button-item>
 
 

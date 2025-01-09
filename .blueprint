@@ -1,17 +1,10 @@
 created:
-    - database/factories/SpecialOfferFactory.php
-    - database/factories/SpecialOfferCategoryFactory.php
-    - database/factories/SpecialOfferFeatureFactory.php
-    - database/migrations/2025_01_09_093909_create_special_offers_table.php
-    - database/migrations/2025_01_09_093910_create_special_offer_categories_table.php
-    - database/migrations/2025_01_09_093911_create_special_offer_features_table.php
-    - database/migrations/2025_01_09_093912_create_special_offer_special_offer_category_table.php
-    - database/migrations/2025_01_09_093913_create_special_offer_special_offer_feature_table.php
-    - app/Models/SpecialOffer.php
-    - app/Models/SpecialOfferCategory.php
-    - app/Models/SpecialOfferFeature.php
+    - database/factories/GalleryFactory.php
+    - database/migrations/2025_01_09_105733_create_galleries_table.php
+    - app/Models/Gallery.php
 models:
     User: { name: string, email: string, email_verified_at: 'timestamp nullable default:NULL', password: string, remember_token: 'string:100 nullable default:NULL' }
     SpecialOffer: { meta_title: 'json nullable', meta_description: 'json nullable', title: 'json unique', slug: 'json unique', thumbnail: text, price: integer, start_date: date, end_date: date, short_description: json, content: json, link: text, relationships: { hasMany: 'SpecialOfferCategory, SpecialOfferFeature' } }
     SpecialOfferCategory: { title: 'json unique', slug: 'json unique', relationships: { belongsToMany: SpecialOffer } }
     SpecialOfferFeature: { title: json, relationships: { belongsToMany: SpecialOffer } }
+    Gallery: { category: json, images: text, sort: 'integer nullable' }

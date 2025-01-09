@@ -69,9 +69,15 @@ class AdminPanelProvider extends PanelProvider
 
             ->navigationGroups([
                 NavigationGroup::make()
+                    ->label('Galeria')
+                    ->icon('heroicon-o-camera')
+                    ->collapsed(),
+                NavigationGroup::make()
                     ->label('Oferty specjalne')
                     ->icon('heroicon-o-sparkles')
-                    ->collapsed(),])
+                    ->collapsed(),
+
+            ])
 
             ->plugin(SpatieLaravelTranslatablePlugin::make()->defaultLocales(['pl', 'en']),);
     }

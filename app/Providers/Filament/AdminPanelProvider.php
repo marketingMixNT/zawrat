@@ -76,6 +76,10 @@ class AdminPanelProvider extends PanelProvider
                     ->label('Oferty specjalne')
                     ->icon('heroicon-o-sparkles')
                     ->collapsed(),
+                NavigationGroup::make()
+                    ->label('Opinie')
+                    ->icon('heroicon-o-chat-bubble-oval-left')
+                    ->collapsed(),
 
             ])
 

@@ -25,7 +25,6 @@ class TestimonialResource extends Resource
     }
     protected static ?string $model = Testimonial::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-chat-bubble-oval-left';
 
     protected static ?string $navigationGroup = 'Opinie';
 
@@ -115,5 +114,19 @@ class TestimonialResource extends Resource
             'create' => Pages\CreateTestimonial::route('/create'),
             'edit' => Pages\EditTestimonial::route('/{record}/edit'),
         ];
+    }
+
+    public static function getNavigationLabel(): string
+    {
+        return __('Opinie');
+    }
+    public static function getPluralLabel(): string
+    {
+        return __('Opinie');
+    }
+
+    public static function getLabel(): string
+    {
+        return __('Opinia');
     }
 }
